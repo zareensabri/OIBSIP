@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R²,5-fold CV R² (mean)
+Polynomial (degree 2),0.5262,0.6426,0.9869,0.9843
+Random Forest,0.6623,0.7911,0.9802,0.9736
+Linear Regression,1.4608,1.7816,0.8994,0.8871
